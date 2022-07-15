@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = will.dunwoody@gmail.com
+	name = will dunwoody
